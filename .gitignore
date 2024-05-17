@@ -1,0 +1,13 @@
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+.env
+Homestead.json
+Homestead.yaml
+npm-debug.log
+/.idea/
+/composer.phar
+/composer.lock
+composer.phar
+
